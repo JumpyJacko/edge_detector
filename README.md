@@ -19,5 +19,6 @@ Options:
 
 ## Example
 `.\edge_detector(.exe) -i "birb.png" -o "./birb_processed.png`
+
 ![birb](./birb.png)
 ![birb_processed](./birb_processed.png)
